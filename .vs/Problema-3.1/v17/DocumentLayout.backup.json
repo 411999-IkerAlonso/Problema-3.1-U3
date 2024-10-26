@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\syste\\OneDrive\\Escritorio\\FACULTAD\\CURSADO\\PRIMER CUATRIMESTRE\\PROGRAMACION\\LOGICA\\UNIDAD 3\\EJERCICIOS\\Problema-3.1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B68045A-546B-4319-8F57-47BF7858B0C3}|Problema-3.1.csproj|c:\\users\\syste\\onedrive\\escritorio\\facultad\\cursado\\primer cuatrimestre\\programacion\\logica\\unidad 3\\ejercicios\\problema-3.1\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B68045A-546B-4319-8F57-47BF7858B0C3}|Problema-3.1.csproj|solutionrelative:alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2B68045A-546B-4319-8F57-47BF7858B0C3}|Problema-3.1.csproj|c:\\users\\syste\\onedrive\\escritorio\\facultad\\cursado\\primer cuatrimestre\\programacion\\logica\\unidad 3\\ejercicios\\problema-3.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B68045A-546B-4319-8F57-47BF7858B0C3}|Problema-3.1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B68045A-546B-4319-8F57-47BF7858B0C3}|Problema-3.1.csproj|c:\\users\\syste\\onedrive\\escritorio\\facultad\\cursado\\primer cuatrimestre\\programacion\\logica\\unidad 3\\ejercicios\\problema-3.1\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B68045A-546B-4319-8F57-47BF7858B0C3}|Problema-3.1.csproj|solutionrelative:persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B68045A-546B-4319-8F57-47BF7858B0C3}|Problema-3.1.csproj|c:\\users\\syste\\onedrive\\escritorio\\facultad\\cursado\\primer cuatrimestre\\programacion\\logica\\unidad 3\\ejercicios\\problema-3.1\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B68045A-546B-4319-8F57-47BF7858B0C3}|Problema-3.1.csproj|solutionrelative:alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,20 +34,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Alumno.cs",
               "DocumentMoniker": "C:\\Users\\syste\\OneDrive\\Escritorio\\FACULTAD\\CURSADO\\PRIMER CUATRIMESTRE\\PROGRAMACION\\LOGICA\\UNIDAD 3\\EJERCICIOS\\Problema-3.1\\Alumno.cs",
               "RelativeDocumentMoniker": "Alumno.cs",
               "ToolTip": "C:\\Users\\syste\\OneDrive\\Escritorio\\FACULTAD\\CURSADO\\PRIMER CUATRIMESTRE\\PROGRAMACION\\LOGICA\\UNIDAD 3\\EJERCICIOS\\Problema-3.1\\Alumno.cs",
               "RelativeToolTip": "Alumno.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T19:25:18.892Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\syste\\OneDrive\\Escritorio\\FACULTAD\\CURSADO\\PRIMER CUATRIMESTRE\\PROGRAMACION\\LOGICA\\UNIDAD 3\\EJERCICIOS\\Problema-3.1\\Persona.cs",
               "RelativeDocumentMoniker": "Persona.cs",
@@ -60,13 +60,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\syste\\OneDrive\\Escritorio\\FACULTAD\\CURSADO\\PRIMER CUATRIMESTRE\\PROGRAMACION\\LOGICA\\UNIDAD 3\\EJERCICIOS\\Problema-3.1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\syste\\OneDrive\\Escritorio\\FACULTAD\\CURSADO\\PRIMER CUATRIMESTRE\\PROGRAMACION\\LOGICA\\UNIDAD 3\\EJERCICIOS\\Problema-3.1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T19:24:16.322Z",
               "EditorCaption": ""
